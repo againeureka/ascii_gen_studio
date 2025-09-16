@@ -5,7 +5,7 @@
 - https://github.com/againeureka/ascii_gen_studio.git
 
 
-## Demo page
+## Demo pages
 
 <img src="./doc/page01.jpg" alt="예시 이미지" width="500">
 
