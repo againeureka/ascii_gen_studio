@@ -1,7 +1,7 @@
 # ascii_gen_studio
 
 - Ascii Gen Studio 2025
-- by JPark (againeureka@gmail.com), Sep. 2025
+- by JPark(againeureka), Sep. 2025
 - https://github.com/againeureka/ascii_gen_studio.git
 
 
